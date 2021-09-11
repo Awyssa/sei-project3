@@ -20,9 +20,9 @@ For our third project on the General Assembly Software Engineering Immersive Cou
 Our team decided to build a festival finding app. 
 
 ### <a name="team"></a>Team Members:
-Anna Monkman (me)<br/>
 Michael Henderson<br/>
-[Sotirios Alpanis](https://github.com/sotiriosalpanis)<br/>
+Anna Monkman<br/>
+Sotirios Alpanis<br/>
 George Shaw<br/>
 
 ## <a name="project"></a>Link to Deployed Project
